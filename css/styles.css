@@ -1,0 +1,18 @@
+body, ul, li, a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: Arial,sans-serif;
+}
+
+#navbar {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+#navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
