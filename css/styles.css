@@ -17,10 +17,21 @@ body, ul, li, a {
     margin-right: 20px;
 }
 
+<<<<<<< HEAD
 #navbar ul {
     display: flex;
     justify-content: center;
     padding: 10px 0;
     flex-direction: column;
     align-items: center;
+=======
+p {
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+
+.highlight {
+    color: #4CAF50;
+    font-weight: bold;
+>>>>>>> 133d3b123385632e29844e0bec32c189ebc830ed
 }
